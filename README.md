@@ -1,2 +1,2 @@
 # netfile
-Pesquisar documentações na internet
+Script para busca e download de documentações na internet.
