@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #---------------------------------------------------------------------------#
-# Data: 31 de Agosto de 2016
+# Dfata: 31 de Agosto de 2016
 # Criador por: Juliano Santos [x_SHAMAN_x]
 # Script: netfile.sh
 # Descrição: Script para busca de documentações na internet.
